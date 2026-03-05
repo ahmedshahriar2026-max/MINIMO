@@ -1,2 +1,2 @@
 # MINIMO
-simple layout
+
